@@ -8,6 +8,8 @@ public class ClasePrueba {
 		
 		System.out.println("Agregando otra línea de código");
 		
+		String nombre;
+		
 	}
 
 }
