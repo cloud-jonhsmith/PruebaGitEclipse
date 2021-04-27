@@ -6,6 +6,8 @@ public class ClasePrueba {
 		// TODO Auto-generated method stub
 		System.out.println("Hola GIT");
 		
+		System.out.println("Agregando otra línea de código");
+		
 	}
 
 }
